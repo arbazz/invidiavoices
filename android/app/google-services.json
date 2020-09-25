@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15425598762",
+    "firebase_url": "https://invidiavoices-a2960.firebaseio.com",
+    "project_id": "invidiavoices-a2960",
+    "storage_bucket": "invidiavoices-a2960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15425598762:android:deb554a4cbee42dd789a53",
+        "android_client_info": {
+          "package_name": "com.invidiavoices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15425598762-5t3mb9eqjd8dvki6spdjltbj2ug24gos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invidiavoices",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "15425598762-heumenqpl0u2kum00miehaijrana4lbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcN7mdeGi8VfZYvI9UFFWb341W3gmdVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15425598762-heumenqpl0u2kum00miehaijrana4lbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
